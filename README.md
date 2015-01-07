@@ -1,0 +1,1 @@
+A sample for how to create a control that allows for text to be placed overtop of an image (centered on the image). It uses standard Xamarin.Forms controls to do this without custom renderers. TextOnImage.xaml is the key file to look at for the code.

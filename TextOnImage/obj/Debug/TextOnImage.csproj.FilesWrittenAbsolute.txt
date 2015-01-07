@@ -1,0 +1,11 @@
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/TextOnImage/TextOnImage/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/TextOnImage/TextOnImage/obj/Debug/TextOnImage.SamplePage.xaml
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/TextOnImage/TextOnImage/obj/Debug/TextOnImage.TextOnImage.xaml
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/TextOnImage/TextOnImage/obj/Debug/SamplePage.xaml.g.cs
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/TextOnImage/TextOnImage/obj/Debug/TextOnImage.xaml.g.cs
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/TextOnImage/TextOnImage/bin/Debug/TextOnImage.dll.mdb
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/TextOnImage/TextOnImage/bin/Debug/TextOnImage.dll
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/TextOnImage/TextOnImage/obj/Debug/TextOnImage.dll
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/TextOnImage/TextOnImage/obj/Debug/TextOnImage.dll.mdb
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/TextOnImage/TextOnImage/bin/Debug/Xamarin.Forms.Core.dll
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/TextOnImage/TextOnImage/bin/Debug/Xamarin.Forms.Xaml.dll
